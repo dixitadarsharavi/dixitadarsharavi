@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adarsh Dixit
 - 👀 I’m interested in Full-stack Development and Robotics
-- 🌱 I’m currently learning Python, Terraform, Vault
 
 <!---
 dixitadarsharavi/dixitadarsharavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
